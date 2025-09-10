@@ -10,3 +10,4 @@ git clone YOUR_URL_HERE
 git status  
 git add .
 git commit -m
+git push
